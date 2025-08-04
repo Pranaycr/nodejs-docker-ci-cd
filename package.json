@@ -1,3 +1,13 @@
-"scripts": {
-  "start": "node index.js"
+{
+  "name": "nodejs-docker-app",
+  "version": "1.0.0",
+  "description": "My Dockerized Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
 }
